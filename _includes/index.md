@@ -9,6 +9,6 @@ I'm part of the R&D team of [Bulletproof Networks](http://bulletproof.net.au) in
 * [Twitter](http://twitter.com/skorfmann)
 * [LinkedIn](http://linkedin.com/in/skorfmann)
 * [Facebook](http://facebook.com/skorfmann)
-* [Github](http://github.com)
+* [Github](http://github.com/skorfmann)
 * [E-Mail](mailto:korfmann.sebastian@gmail.com)
 
