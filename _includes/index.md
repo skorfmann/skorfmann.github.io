@@ -1,6 +1,6 @@
 I'm a freelance Software Engineer from Germany.
 
-Currently based in Saigon, Vietnam where I kicked off the local Ruby user group ([Saigon.rb](http://saigonrb.com)).
+Currently based in Saigon, Vietnam where I kicked off the local Ruby user group ([Saigon.rb](http://saigonrb.com)) and organized a [Coderetreat](http://coderetreat.vn).
 
 I'm part of the R&D team of [Bulletproof Networks](http://bulletproof.net.au) in Australia.
 
@@ -11,4 +11,3 @@ I'm part of the R&D team of [Bulletproof Networks](http://bulletproof.net.au) in
 * [Facebook](http://facebook.com/skorfmann)
 * [Github](http://github.com/skorfmann)
 * [E-Mail](mailto:korfmann.sebastian@gmail.com)
-
