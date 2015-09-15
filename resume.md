@@ -131,7 +131,7 @@ Targeted to travellers, this project enabled them to collaboratively create trav
 
         <li>Postgres, MySQL, MongoDB</li>
 
-        <li>Elasticsearch, Redis, InfluxDB, RabbitMQ<li>
+        <li>Elasticsearch, Redis, InfluxDB, RabbitMQ</li>
       </ul>
     </td>
   </tr>
