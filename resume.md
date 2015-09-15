@@ -29,13 +29,13 @@ JobGrid is an early stage company building a network of community driven job boa
 
 ### Freelance Software Engineer at [XING](http://xing.com) (2015 - present)
 
-XING, the social network for business professionals, has around 9 million members in its core German-speaking market. It is structured in product teams, and I was hired as part of the Communities team which is responsible for the Groups product.
+XING, the social network for business professionals, has around 9 million members in its core German-speaking market. The organizational structure of XING evolves around product teams, and I was hired as part of the Communities team, which is responsible for the Groups product.
 
-Besides from the ongoing development, my primary responsiblity was building a new product, the Groups Marketplace. The main purpose is, to free up discussions from classifieds and job ads, as well as making this data avaialbe to XING in a structured way.
+Besides from the ongoing development, my primary responsibility was building a new product, the Groups Marketplace. The main purpose is, to free up discussions from classifieds and job ads, as well as making this data available to XING in a structured way.
 
 Achievements include:
 
- - Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with my team
+ - Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with our team
  - Introduced Github pull-request workflow with codereviews.
  - Improved overall consistency of the codebase by advocating for commonly shared coding standards
  - Mentored junior developers through extensive pair programming
