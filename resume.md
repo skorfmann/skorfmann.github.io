@@ -15,9 +15,9 @@ title: Resume for Sebastian Korfmann
 
 ### Summary
 
-I'm a seasoned Software Engineer and work preferably with Ruby on Rails & Docker. Although I'm proficient on the front-end of a typical web application, I've been focusing on the server-side in the last year or so. I did lots of work related to APIs, refactoring and extracting (micro)-services out of monolithic Rails apps.
+I'm a seasoned Software Engineer and work preferably with Ruby on Rails & Docker. Although I'm proficient on the front-end of a typical web application, I've been focusing on the server-side in the last two years. I did lots of work related to APIs, refactoring and extracting (micro)-services out of monolithic Rails apps.
 
-I lived & worked on three continents (Europe, Australia and Asia) and was involved in shaping the local tech-community in Saigon, Vietnam by organizing Ruby & Docker meet-ups.
+I lived & worked on three continents (Europe, Australia and Asia) and was involved in shaping the local tech-community in Saigon, Vietnam by organizing Ruby & Docker meetups.
 
 <p style="page-break-after: always;"></p>
 
@@ -25,7 +25,7 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 
 ### Founder of [JobGrid](https://jobgrid.io) (2014-present)
 
-JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user-groups, barcamps and conferences.
+JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user groups, barcamps and conferences.
 
 ### Freelance Software Engineer at [XING](http://xing.com) (2015 - present)
 
@@ -38,29 +38,29 @@ Achievements include:
  - Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with my team
  - Introduced Github pull-request workflow with codereviews.
  - Improved overall consistency of the codebase by advocating for commonly shared coding standards
- - Mentored junior developers through extensive pair-programming
+ - Mentored junior developers through extensive pair programming
 
 ### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) (2012-2015)
 
-I worked mostly on internal and customer facing Ruby (on Rails) apps. We did a large refactoring in one of the main Rails applications, which paid off years of technical debt. This allowed us to start to extract micro services, build sane REST APIs and move faster in development overall.
+I mostly worked on internal and customer facing Ruby (on Rails) apps. We did a large refactoring in one of the main Rails applications, which paid off years of technical debt. This allowed us to start to extract micro services, build sane REST APIs and move faster in development overall.
 
-In 2014, we were onboarding more Ruby developers and I became the de facto Ruby dev-lead. Besides from that, I had the chance to spent a significant amount of time in research about Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
+In 2014, we were onboarding more Ruby developers and I became the de facto Ruby dev-lead. Besides from that, I had the chance to spend a significant amount of time in research on Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
 
 Achievements included:
 
  - Paid off 10 years of technical debt in the CRM app
  - Shaped development best practices for the team
- - Research project about viability of Docker PaaS for Bulletproof
+ - Research project on viability of Docker PaaS for Bulletproof
 
 ### Software Engineer at [Ennova](http://ennova.com.au) (2012 - 2012)
 
-First stop in Australia, where I had the pleasure to do lots of pair-programming on client projects and Ennova's SaaS for the mining industry. All work was Ruby related and mostly deployed to Heroku.
+First stop in Australia, where I had the pleasure to do lots of pair programming on client projects and Ennova's SaaS for the mining industry. All work was Ruby related and mostly deployed to Heroku.
 
 ### Freelance Software Engineer at [Maritime Data Systems](http://www.maritimedatasystems.com) (2012 - 2012)
 
-We were building an app for real time monitoring of the commercial traffic in the Port of Hamburg. The data feed was provided by the Hamburg Port Authority and we were processing and enriching the data.
+We built an app for real time monitoring of the commercial traffic in the Port of Hamburg. The data feed was provided by the Hamburg Port Authority and we processed and enriched the data.
 
-The end user were tug boat companies, which are using this tool to acquire new customers on a daily basis.
+The end users were tug boat companies, who use this tool for acquiring new customers up until today.
 
 
 ### Freelance Software Engineer at [9Flats](http://www.9flats.com) (2011 - 2011)
@@ -69,20 +69,19 @@ The scope of the project was, to use geo data to enrich the listing of the platf
 
 ### Software Engineer at [tmp8](http://tmp8.de) (2010 - 2011)
 
-As part of this small software consultancy, I was working on projects in various companies. We built tools for offline media tracking / tagging (newspapers / magazines), SEO optimization and a sport community platform for the Deutscher Olympischer Sportbund (German Olympic Sports Confederation).
+As part of this small software consultancy, I was working on projects in various companies. We built tools for offline media tracking / tagging (newspapers / magazines), SEO optimization and a sport community platform for Deutscher Olympischer Sportbund (German Olympic Sports Confederation).
 
 ### Software Engineer at [Ubilabs](http://ubilabs.net) (2010 - 2010)
 
-Besides from from some smaller projects, I was working on two major projects during my time here:
+Besides from some smaller projects, I was working on two major projects during my time here:
 
 Blitzer.de
 
-A platform to report stationary and mobile speed traps in Europe. The collected data is consumed by mobile clients and GPS navigation systems. I was involved in maintaining the website, develop new features and build up the geo database to perform better SEO.
+A platform to report stationary and mobile speed traps in Europe. The collected data is consumed by mobile clients and GPS navigation systems. I was involved in maintaining the website, developing new features and building up the geo database to perform better SEO.
 
 Guided.by
 
-Targeted to travellers, to collaboratively create travel guides with their friends for destinations they're planning to visit. We've built the project from scratch, including a geo database and connecting to various travel platform APIs.
-
+Targeted to travellers, this project enabled them to collaboratively create travel guides with their friends for destinations they're planning to visit. We built the project from scratch, including a geo database and connecting it to various travel platform APIs.
 
 <p style="page-break-after: always;"></p>
 
@@ -148,7 +147,7 @@ Targeted to travellers, to collaboratively create travel guides with their frien
 
 ## Presentations
 
-I speak frequently at user-groups about various topics and had a few conference talks in 2014.
+I frequently speak at user groups about various topics and had a few conference talks in 2014.
 
 - [Far East Ruby](http://2014.eurucamp.org/speakers/#sebastian-korfmann) at Eurucamp in Berlin
 - "Docker private PaaS" given at CodeConf in HongKong and [Ruby Hiroba](http://rubyhiroba.org/2014) Tokyo
