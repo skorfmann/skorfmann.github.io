@@ -146,8 +146,6 @@ Targeted to travellers, to collaboratively create travel guides with their frien
   </tr>
 </table>
 
-<p style="page-break-after: always;"></p>
-
 ## Presentations
 
 I speak frequently at user-groups about various topics and had a few conference talks in 2014.
