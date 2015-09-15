@@ -23,7 +23,7 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 
 ## Employment history
 
-### Founder at [JobGrid](https://jobgrid) (2014-present)
+### Founder at [JobGrid](https://jobgrid.io) (2014-present)
 
 JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user-groups, barcamps and conferences.
 
@@ -35,7 +35,7 @@ Besides from the ongoing development, my primary responsiblity was building a ne
 
 Achievements include:
 
- - Built and shipped the [Groups Marketplace](http:/xing.to/bmw) with my team
+ - Built and shipped the [Groups Marketplace](http://xing.to/bmw) with my team
  - Introduced Github pull-request workflow with codereviews.
  - Improved overall consistency of the codebase by advocating for commonly shared coding standards
  - Mentored junior developers through extensive pair-programming
