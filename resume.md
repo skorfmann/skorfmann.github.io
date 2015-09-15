@@ -94,7 +94,7 @@ Targeted to travellers, to collaboratively create travel guides with their frien
 
     <td>
       <ul>
-        <li>Team leading capabilities</li>
+        <li>Team leading</li>
 
         <li>Hiring engineers</li>
 
