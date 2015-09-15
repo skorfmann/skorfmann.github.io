@@ -35,7 +35,7 @@ Besides from the ongoing development, my primary responsiblity was building a ne
 
 Achievements include:
 
- - Built and shipped the [Groups Marketplace](http://xing.to/bmw) with my team
+ - Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with my team
  - Introduced Github pull-request workflow with codereviews.
  - Improved overall consistency of the codebase by advocating for commonly shared coding standards
  - Mentored junior developers through extensive pair-programming
