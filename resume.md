@@ -128,6 +128,10 @@ Targeted to travellers, this project enabled them to collaboratively create trav
         <li>Ruby, JavaScript, Go</li>
 
         <li>HTML, CSS, SASS</li>
+
+        <li>Postgres, MySQL, MongoDB</li>
+
+        <li>Elasticsearch, Redis, InfluxDB, RabbitMQ<li>
       </ul>
     </td>
   </tr>
