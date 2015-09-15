@@ -23,7 +23,7 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 
 ## Employment history
 
-### Founder at [JobGrid](https://jobgrid.io) (2014-present)
+### Founder of [JobGrid](https://jobgrid.io) (2014-present)
 
 JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user-groups, barcamps and conferences.
 
