@@ -23,7 +23,7 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 
 ## Employment history
 
-### Founder of [JobGrid](https://jobgrid.io) (2014-present)
+### Founder of [JobGrid](https://jobgrid.io) (2014 - present)
 
 JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user groups, barcamps and conferences.
 
@@ -40,7 +40,7 @@ Achievements include:
  - Improved overall consistency of the codebase by advocating for commonly shared coding standards
  - Mentored junior developers through extensive pair programming
 
-### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) (2012-2015)
+### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) (2012 - 2015)
 
 I mostly worked on internal and customer facing Ruby (on Rails) apps. We did a large refactoring in one of the main Rails applications, which paid off years of technical debt. This allowed us to start to extract micro services, build sane REST APIs and move faster in development overall.
 
