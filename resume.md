@@ -5,6 +5,8 @@ title: Resume for Sebastian Korfmann
 
 # Sebastian Korfmann
 
+Software-Engineer - Hamburg, Germany
+
 | Medium   | Address |
 | -------- | ------- |
 | Email    | korfmann.sebastian@gmail.com |
@@ -22,10 +24,6 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 <p style="page-break-after: always;"></p>
 
 ## Employment history
-
-### Founder of [JobGrid](https://jobgrid.io) (2014 - present)
-
-JobGrid is an early stage company building a network of community driven job boards. We're establishing a new way of staffing tech teams while supporting user groups, barcamps and conferences.
 
 ### Freelance Software Engineer at [XING](http://xing.com) (2015 - present)
 
