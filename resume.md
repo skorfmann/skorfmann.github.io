@@ -5,7 +5,7 @@ title: Resume for Sebastian Korfmann
 
 # Sebastian Korfmann
 
-Software-Engineer - Hamburg, Germany
+Software Engineer - Hamburg, Germany
 
 | Medium   | Address |
 | -------- | ------- |
