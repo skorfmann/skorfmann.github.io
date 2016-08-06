@@ -17,9 +17,11 @@ Software Engineer - Hamburg, Germany
 
 ### Summary
 
-I'm a seasoned Software Engineer and work preferably with Ruby on Rails & Docker. Although I'm proficient on the front-end of a typical web application, I've been focusing on the server-side in the last two years. I did lots of work related to APIs, refactoring and extracting (micro)-services out of monolithic Rails apps.
+I'm a seasoned Software Engineer with team leading expertise and have extensive experience with Ruby (on Rails) & Javascript.
 
 I lived & worked on three continents (Europe, Australia and Asia) and was involved in shaping the local tech-community in Saigon, Vietnam by organizing Ruby & Docker meetups.
+
+I'll be available starting from the 1st of October 2016.
 
 <p style="page-break-after: always;"></p>
 
@@ -30,6 +32,8 @@ I lived & worked on three continents (Europe, Australia and Asia) and was involv
 XING, the social network for business professionals, has around 9 million members in its core German-speaking market. The organizational structure of XING evolves around product teams, and I was hired as part of the Communities team, which is responsible for the Groups product.
 
 Besides from the ongoing development, my primary responsibility was building a new product, the Groups Marketplace. The main purpose is, to free up discussions from classifieds and job ads, as well as making this data available to XING in a structured way.
+
+Starting from 2016 I became the interim Lead Developer of that team and we shifted the focus towards the "XING Ad Manager" product, which is a self booking tool for XING members to promote their content across the XING platform.
 
 Achievements include:
 
@@ -42,7 +46,7 @@ Achievements include:
 
 I mostly worked on internal and customer facing Ruby (on Rails) apps. We did a large refactoring in one of the main Rails applications, which paid off years of technical debt. This allowed us to start to extract micro services, build sane REST APIs and move faster in development overall.
 
-In 2014, we were onboarding more Ruby developers and I became the de facto Ruby dev-lead. Besides from that, I had the chance to spend a significant amount of time in research on Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
+In 2014, we were onboarding more Ruby developers and I became the Ruby dev-lead. Besides from that, I had the chance to spend a significant amount of time in research on Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
 
 Achievements included:
 
