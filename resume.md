@@ -17,11 +17,11 @@ Software Engineer - Hamburg, Germany
 
 ### Summary
 
-Sebastian Korfmann is an entrepreneurial Software Engineer based in Hamburg, Germany who helps tech companies deliver innovative projects.
+I'm an entrepreneurial Software Engineer based in Hamburg, Germany who helps tech companies deliver innovative projects.
 
-With a current focus on cloud solutions architecture, he has over a decade of experience in software engineering and technical leadership. Recent projects have included a large-scale GraphQL implementation for a German listed company and cloud migration of an on-premise microservices platform to Amazon Web Services.
+With a current focus on cloud solutions architecture, I have over a decade of experience in software engineering and technical leadership. Recent projects have included a large-scale GraphQL implementation for a German listed company and cloud migration of an on-premise microservices platform to Amazon Web Services.
 
-Sebastian enjoys to participate in tech community events, and is the organizer of the GraphQL Hamburg meetup.
+I enjoy to participate in tech community events, and am the organizer of the GraphQL Hamburg meetup.
 
 <p style="page-break-after: always;"></p>
 
