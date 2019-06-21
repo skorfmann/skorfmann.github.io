@@ -7,29 +7,53 @@ title: Resume for Sebastian Korfmann
 
 Software Engineer - Hamburg, Germany
 
-| Medium   | Address |
-| -------- | ------- |
-| Email    | korfmann.sebastian@gmail.com |
-| Twitter  | [@skorfmann](https://twitter.com/skorfmann) |
-| GitHub   | [skorfmann](http://github.com/skorfmann) |
-| Website  | [skorfmann.com](http://skorfmann.com) |
-| LinkedIn | [linkedin.com/in/skorfmann](http://www.linkedin.com/in/skorfmann) |
+| Medium   | Address                                                            |
+| -------- | ------------------------------------------------------------------ |
+| Email    | sebastian@korfmann.net                                             |
+| Twitter  | [@skorfmann](https://twitter.com/skorfmann)                        |
+| GitHub   | [skorfmann](https://github.com/skorfmann)                          |
+| Website  | [skorfmann.com](https://skorfmann.com)                             |
+| LinkedIn | [linkedin.com/in/skorfmann](https://www.linkedin.com/in/skorfmann) |
 
 ### Summary
 
-I'm a seasoned Software Engineer with team leading expertise and have extensive experience with Ruby (on Rails) & Javascript.
+Sebastian Korfmann is an entrepreneurial Software Engineer based in Hamburg, Germany who helps tech companies deliver innovative projects.
 
-I lived & worked on three continents (Europe, Australia and Asia) and was involved in shaping the local tech-community in Saigon, Vietnam by organizing Ruby & Docker meetups.
+With a current focus on cloud solutions architecture, he has over a decade of experience in software engineering and technical leadership. Recent projects have included a large-scale GraphQL implementation for a German listed company and cloud migration of an on-premise microservices platform to Amazon Web Services.
 
-I'll be available starting from the 1st of October 2016.
+Sebastian enjoys to participate in tech community events, and is the organizer of the GraphQL Hamburg meetup.
 
 <p style="page-break-after: always;"></p>
 
-## Employment history
+## Project history
 
-### Freelance Software Engineer at [XING](http://xing.com) (2015 - present)
+### Freelance Software Engineer at [Wer liefert was?](https://www.wlw.de) (2018 - present)
 
-XING, the social network for business professionals, has around 9 million members in its core German-speaking market. The organizational structure of XING evolves around product teams, and I was hired as part of the Communities team, which is responsible for the Groups product.
+Initially hired for a Ruby on Rails performance optimization project, I was offered the opportunity to join a cloud migration task force subsequently. Its goal is: Moving the web application stack with about 30 microservices to Amazon Web Services.
+
+Achievements include:
+
+- Making a business case to successfully convince the upper management and C-level to support the cloud migration project beyond the proof of concept
+- Hybrid on premise / cloud setup with deep integration into developer tooling and workflows
+- Fully codified / modularized cloud infrastructure leveraging Terraform in a GitOps workflow
+- Shutdown of on premise web stack in Q3/2019
+
+### Freelance Software Engineer at [XING](https://www.xing.com) (2015 - 2018)
+
+XING, the social network for business professionals, has around 15 million members in its core German-speaking market.
+
+#### Xing Profile (2016 - 2018)
+
+The goal of this project was to modularize the Profile application in a way, that other teams at Xing could be empowered to contribute widgets to enhance the core profile data with content like "contacts", "events" or "activities". The highlevel purpose - besides from modernizing the technology stack - was an increase of user engagement.
+
+Achievements include:
+
+- Successfully pioneered and evangelized the first GraphQL based product at Xing which served as foundation for the entire platform
+- Fixed millions of profile data inconsistencies
+- Re-architected the core profile data services to improve encapsulation and pay off technical debt
+- Stakeholder management for the various touchpoints across the company at management and director level
+
+#### Xing Communities / Ad Manager (2015 - 2016)
 
 Besides from the ongoing development, my primary responsibility was building a new product, the Groups Marketplace. The main purpose is, to free up discussions from classifieds and job ads, as well as making this data available to XING in a structured way.
 
@@ -37,10 +61,10 @@ Starting from 2016 I became the interim Lead Developer of that team and we shift
 
 Achievements include:
 
- - Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with our team
- - Introduced Github pull-request workflow with codereviews.
- - Improved overall consistency of the codebase by advocating for commonly shared coding standards
- - Mentored junior developers through extensive pair programming
+- Built and shipped the [Groups Marketplace](https://www.xing.com/communities/groups/bmw-freude-am-fahren-1004997/marketplace) with our team
+- Improved overall consistency of the codebase by advocating for commonly shared coding standards
+- Mentored junior developers through extensive pair programming
+- Guided the team through a product change
 
 ### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) (2012 - 2015)
 
@@ -50,9 +74,9 @@ In 2014, we were onboarding more Ruby developers and I became the Ruby dev-lead.
 
 Achievements included:
 
- - Paid off 10 years of technical debt in the CRM app
- - Shaped development best practices for the team
- - Research project on viability of Docker PaaS for Bulletproof
+- Paid off 10 years of technical debt in the CRM app
+- Shaped development best practices for the team
+- Research project on viability of Docker PaaS for Bulletproof
 
 ### Software Engineer at [Ennova](http://ennova.com.au) (2012 - 2012)
 
@@ -63,7 +87,6 @@ First stop in Australia, where I had the pleasure to do lots of pair programming
 We built an app for real time monitoring of the commercial traffic in the Port of Hamburg. The data feed was provided by the Hamburg Port Authority and we processed and enriched the data.
 
 The end users were tug boat companies, who use this tool for acquiring new customers up until today.
-
 
 ### Freelance Software Engineer at [9Flats](http://www.9flats.com) (2011 - 2011)
 
@@ -97,11 +120,14 @@ Targeted to travellers, this project enabled them to collaboratively create trav
       <ul>
         <li>Team leading</li>
 
+        <li>Stakeholder management</li>
+
         <li>Hiring engineers</li>
 
         <li>Mentoring junior engineers</li>
       </ul>
     </td>
+
   </tr>
 
   <tr>
@@ -120,6 +146,7 @@ Targeted to travellers, this project enabled them to collaboratively create trav
         <li>Kanban, Scrum</li>
       </ul>
     </td>
+
   </tr>
 
   <tr>
@@ -127,15 +154,16 @@ Targeted to travellers, this project enabled them to collaboratively create trav
 
     <td>
       <ul>
-        <li>Ruby, JavaScript, Go</li>
+        <li>Ruby, JavaScript, Typescript, Go</li>
 
         <li>HTML, CSS, SASS</li>
 
         <li>Postgres, MySQL, MongoDB</li>
 
-        <li>Elasticsearch, Redis, InfluxDB, RabbitMQ</li>
+        <li>Elasticsearch, Redis</li>
       </ul>
     </td>
+
   </tr>
 
   <tr>
@@ -145,15 +173,16 @@ Targeted to travellers, this project enabled them to collaboratively create trav
       <ul>
         <li>AWS, Heroku</li>
 
-        <li>Jenkins, Vagrant, Docker</li>
+        <li>Terraform, AWS CDK (CloudFormation), Serverless Framework</li>
       </ul>
     </td>
+
   </tr>
 </table>
 
-## Presentations
+## Meetup / Conference Presentations (Excerpt)
 
-I frequently speak at user groups about various topics and had a few conference talks in 2014.
-
+- [Serverless Ruby Bundler with AWS Cloud Development Kit (CDK)](https://hamburg.onruby.de/topics/serverless-ruby-bundler-with-aws-cloud-development-kit-cdk-679)
+- [Chromed GraphQL - Building a Declarative Crawler](https://www.meetup.com/graphql-berlin/events/248497856/) - [Github](https://github.com/skorfmann/spidergraph)
 - [Far East Ruby](http://2014.eurucamp.org/speakers/#sebastian-korfmann) at Eurucamp in Berlin
 - "Docker private PaaS" given at CodeConf in HongKong and [Ruby Hiroba](http://rubyhiroba.org/2014) Tokyo
