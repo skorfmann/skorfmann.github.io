@@ -1,46 +1,75 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:300,400' rel='stylesheet' type='text/css'>
-  <link href='http://fonts.googleapis.com/css?family=Roboto:700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="css/app.css" />
-  <script src="bower_components/sprockets-modernizr/modernizr.js"></script>
-{% include head.html %}
-</head>
-<body>
-  <div class="container">
-    <h1><a href="./">{{ site.h1_tag_text }}</a></h1>
-    <!-- {{ content }} -->
-    <main>
-      <h1>Sebastian Korfmann</h1>
-      <h2>I'm a freelance Software Engineer based in Hamburg, Germany</h2>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="http://fonts.googleapis.com/css?family=Roboto+Slab:300,400"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="http://fonts.googleapis.com/css?family=Roboto:700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="bower_components/font-awesome/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/app.css" />
+    <script src="bower_components/sprockets-modernizr/modernizr.js"></script>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container">
+      <h1>
+        <a href="./">{{ site.h1_tag_text }}</a>
+      </h1>
+      <!-- {{ content }} -->
+      <main>
+        <h1>Sebastian Korfmann</h1>
 
-      <p>
-        Currently, I'm working at <a href="https://xing.com">XING AG</a> as part of the Profiles Team implementing GraphQL.
-      </p>
+        <p>
+          Sebastian Korfmann is an entrepreneurial Software Engineer based in
+          Hamburg, Germany who helps tech companies deliver innovative projects.
+        </p>
 
-      <p>
-        I'm always interested in new opportunities around Web-Development (Ruby / Rails / Javascript) and/or GraphQL.
-      </p>
-
-      <h3>Talks</h3>
-      <p>
-        I talked about "Far East Ruby" at <a href="http://2014.eurucamp.org/speakers/#sebastian-korfmann">eurucamp 2014 (Berlin)</a> and "Docker private PaaS" at <a href="http://codeconf.codeaholics.hk/#sebastian-korfmann">Hong Kong CodeConf</a> &amp; <a href="http://rubyhiroba.org/2014/">Ruby Hiroba (Tokyo)</a>. Furthermore, I've organised and talked on various technical user-groups.
-      </p>
-
-      <p class="subtle">I've <a href="http://blog.skorfmann.com">started to blog</a> again.</p>
-      <ul>
-        <li><a href="http://twitter.com/skorfmann"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="http://linkedin.com/in/skorfmann"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="http://facebook.com/skorfmann"><i class="fa fa-facebook"></i></a></li>
-        <li><a href="http://github.com/skorfmann"><i class="fa fa-github-alt"></i></a></li>
-        <li><a href="mailto:korfmann.sebastian@gmail.com"><i class="fa fa-envelope"></i></a></li>
-      </ul>
-    </main>
-  </div>
-{% include scripts.html %}
-</body>
+        <p>
+          With a current focus on cloud solutions architecture, he has over a
+          decade of experience in software engineering and technical leadership.
+          Recent projects have included a large-scale GraphQL implementation for
+          a German listed company and cloud migration of an on-premise
+          microservices platform to Amazon Web Services.
+        </p>
+        <p>
+          Sebastian enjoys to participate in tech community events, and is the
+          organizer of the GraphQL Hamburg meetup.
+        </p>
+        <ul>
+          <li>
+            <a href="http://twitter.com/skorfmann"
+              ><i class="fa fa-twitter"></i
+            ></a>
+          </li>
+          <li>
+            <a href="http://linkedin.com/in/skorfmann"
+              ><i class="fa fa-linkedin"></i
+            ></a>
+          </li>
+          <li>
+            <a href="http://github.com/skorfmann"
+              ><i class="fa fa-github-alt"></i
+            ></a>
+          </li>
+          <li>
+            <a href="mailto:sebastian@korfmann.net"
+              ><i class="fa fa-envelope"></i
+            ></a>
+          </li>
+        </ul>
+      </main>
+    </div>
+    {% include scripts.html %}
+  </body>
 </html>
