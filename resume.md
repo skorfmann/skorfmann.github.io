@@ -27,7 +27,7 @@ I enjoy to participate in tech community events, and am the organizer of the Gra
 
 ## Project history
 
-### Freelance Software Engineer at [Wer liefert was?](https://www.wlw.de) (2018 - 2020)
+### Freelance Cloud Solutions Architect / Software Engineer at [Wer liefert was?](https://www.wlw.de) (2018 - 2020)
 
 Initially hired for a Ruby on Rails performance optimization project, I was offered the opportunity to join a cloud migration task force subsequently. Its goal was: Moving the web application stack with about 30 Rails applications to Amazon Web Services.
 
