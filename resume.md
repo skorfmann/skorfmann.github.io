@@ -165,6 +165,8 @@ Targeted to travellers, this project enabled them to collaboratively create trav
         <li>Postgres, MySQL, MongoDB</li>
 
         <li>Elasticsearch, Redis</li>
+
+        <li>Docker</li>
       </ul>
     </td>
 
@@ -175,7 +177,7 @@ Targeted to travellers, this project enabled them to collaboratively create trav
 
     <td>
       <ul>
-        <li>AWS</li>
+        <li>AWS Ecosystem</li>
 
         <li>Terraform, AWS CDK (CloudFormation), Serverless Framework</li>
       </ul>
