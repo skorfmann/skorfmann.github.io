@@ -27,16 +27,18 @@ I enjoy to participate in tech community events, and am the organizer of the Gra
 
 ## Project history
 
-### Freelance Software Engineer at [Wer liefert was?](https://www.wlw.de) (2018 - present)
+### Freelance Software Engineer at [Wer liefert was?](https://www.wlw.de) (2018 - 2020)
 
-Initially hired for a Ruby on Rails performance optimization project, I was offered the opportunity to join a cloud migration task force subsequently. Its goal is: Moving the web application stack with about 30 microservices to Amazon Web Services.
+Initially hired for a Ruby on Rails performance optimization project, I was offered the opportunity to join a cloud migration task force subsequently. Its goal was: Moving the web application stack with about 30 Rails applications to Amazon Web Services.
 
 Achievements include:
 
-- Making a business case to successfully convince the upper management and C-level to support the cloud migration project beyond the proof of concept
+- Making a business case to successfully convince the upper management and C-level to support the cloud migration project beyond the proof of concept 
 - Hybrid on premise / cloud setup with deep integration into developer tooling and workflows
 - Fully codified / modularized cloud infrastructure leveraging Terraform in a GitOps workflow
+- Shipping a custom PaaS based on AWS ECS
 - Shutdown of on premise web stack in Q3/2019
+- Automating the creation of pre-production environments
 
 ### Freelance Software Engineer at [XING](https://www.xing.com) (2015 - 2018)
 
@@ -120,6 +122,8 @@ Targeted to travellers, this project enabled them to collaboratively create trav
       <ul>
         <li>Team leading</li>
 
+        <li>Lateral Leadership</li>
+
         <li>Stakeholder management</li>
 
         <li>Hiring engineers</li>
@@ -171,7 +175,7 @@ Targeted to travellers, this project enabled them to collaboratively create trav
 
     <td>
       <ul>
-        <li>AWS, Heroku</li>
+        <li>AWS</li>
 
         <li>Terraform, AWS CDK (CloudFormation), Serverless Framework</li>
       </ul>
