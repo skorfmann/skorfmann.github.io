@@ -74,7 +74,7 @@ I mostly worked on internal and customer facing Ruby (on Rails) apps. We did a l
 
 In 2014, we were onboarding more Ruby developers and I became the Ruby dev-lead. Besides from that, I had the chance to spend a significant amount of time in research on Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
 
-The entire team was fully distributed across Australia, Asia and Europe. While I was travelling in Australia and Asia at the beginning, I temporarily settled down in Ho-Chi-Minh City, Vietnam for about year.
+The entire team was fully distributed across Australia, Asia and Europe. While I was travelling in Australia and Asia at the beginning, I temporarily settled down in Ho-Chi-Minh City, Vietnam for about a year.
 
 Achievements included:
 
