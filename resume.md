@@ -38,7 +38,7 @@ Achievements include:
 - Fully codified / modularized cloud infrastructure leveraging Terraform in a GitOps workflow
 - Shipping a custom PaaS based on AWS ECS
 - Shutdown of on premise web stack in Q3/2019
-- Automating the creation of pre-production environments
+- Automating the creation of pre-production environments with the AWS Cloud Development Kit
 
 ### Freelance Software Engineer at [XING](https://www.xing.com) (2015 - 2018)
 
@@ -68,11 +68,13 @@ Achievements include:
 - Mentored junior developers through extensive pair programming
 - Guided the team through a product change
 
-### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) (2012 - 2015)
+### Freelance Software Engineer at [Bulletproof](http://bulletproof.net) - Remote (2012 - 2015)
 
 I mostly worked on internal and customer facing Ruby (on Rails) apps. We did a large refactoring in one of the main Rails applications, which paid off years of technical debt. This allowed us to start to extract micro services, build sane REST APIs and move faster in development overall.
 
 In 2014, we were onboarding more Ruby developers and I became the Ruby dev-lead. Besides from that, I had the chance to spend a significant amount of time in research on Docker and its ecosystem, with the goal to build an internal Platform as a Service (PaaS).
+
+The entire team was fully distributed across Australia, Asia and Europe. While I was travelling in Australia and Asia at the beginning, I temporarily settled down in Ho-Chi-Minh City, Vietnam for about year.
 
 Achievements included:
 
